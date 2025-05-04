@@ -10,13 +10,13 @@ data:extend(
     icons =
     {
       {
-        icon =   util.k2assets().."/technologies/matter-stone.png",
+        icon =   util.k2assets().."/technologies/backgrounds/matter.png",
         icon_size = 256,
       },
       {
         icon = "__bztitanium__/graphics/icons/titanium-ore.png",
         icon_size = 64, icon_mipmaps = 3,
-        scale = 1.5,
+        scale = 0.5,
       }
     },
     effects = {},
