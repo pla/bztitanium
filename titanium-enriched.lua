@@ -7,13 +7,13 @@ data:extend(
   {
     type = "item",
     name = "enriched-titanium",
-    icon_size = 64, icon_mipmaps = 3,
+    icon_size = 64,
     icon = "__bztitanium__/graphics/icons/enriched-titanium.png",
       pictures = {
-        {filename="__bztitanium__/graphics/icons/enriched-titanium.png", size=64, scale=0.25},
-        {filename="__bztitanium__/graphics/icons/enriched-titanium-2.png", size=64, scale=0.25},
-        {filename="__bztitanium__/graphics/icons/enriched-titanium-3.png", size=64, scale=0.25},
-        {filename="__bztitanium__/graphics/icons/enriched-titanium-4.png", size=64, scale=0.25},
+        {filename="__bztitanium__/graphics/icons/enriched-titanium.png", size=64, scale=0.5},
+        {filename="__bztitanium__/graphics/icons/enriched-titanium-2.png", size=64, scale=0.5},
+        {filename="__bztitanium__/graphics/icons/enriched-titanium-3.png", size=64, scale=0.5},
+        {filename="__bztitanium__/graphics/icons/enriched-titanium-4.png", size=64, scale=0.5},
       },
     subgroup = "raw-material",
     order = "e05-a[enriched-ores]-a1[enriched-titanium]",
