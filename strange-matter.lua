@@ -1,4 +1,4 @@
-local util = require("__bztitanium__.data-util");
+local util = require("__bztitanium__.data-util")
 
 
 local ore = "titanium-ore"
@@ -17,7 +17,7 @@ data:extend({
     energy_required = 1,
     ingredients = {{type="fluid", name="strange-matter", amount = 3}},
     result = ore,
-    category = "crafting-with-fluid",
+    categories = {"crafting-with-fluid"},
     subgroup = "synthesis",
   },
   {
